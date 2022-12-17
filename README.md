@@ -6,5 +6,5 @@ Alur Fitur Login:
 2. Memvalidasi masukan.
 3. Menampilkan halaman hone.
 
-E-mail: admin@dicoding.com
+E-mail: admin@dicoding.com <br>
 Password: superpassword
