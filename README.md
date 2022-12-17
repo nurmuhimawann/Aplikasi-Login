@@ -1,4 +1,7 @@
-# Aplikasi-Login
+# aplikasi-login
+
+🌀 #1. "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software"
+
 Sebuah aplikasi dengan fitur login.
 
 Alur Fitur Login:
